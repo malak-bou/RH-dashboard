@@ -1,1 +1,1 @@
-# RH-dashboard
+# dashboard-teacher
